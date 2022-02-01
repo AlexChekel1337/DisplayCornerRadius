@@ -1,7 +1,7 @@
 # DisplayCornerRadius
 
 [![Swift Package Manager Compatible](https://img.shields.io/badge/SPM-compatible-brightgreen.svg?style=flat)](https://github.com/apple/swift-package-manager)  
-DisplayCornerRadius is a package inspired by [ScreenCorners](https://github.com/kylebshr/ScreenCorners) that allows your views to match the rounding of the display. 
+DisplayCornerRadius is a package inspired by [ScreenCorners](https://github.com/kylebshr/ScreenCorners) and it allows your views to match the rounding of the display. 
 
 ## Important
 
